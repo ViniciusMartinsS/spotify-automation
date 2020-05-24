@@ -1,0 +1,15 @@
+{
+  "name": "spotify-automated-player",
+  "version": "1.0.0",
+  "description": "Simple way of playing your musics on spotify",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "puppeteer": "^2.0.0"
+  }
+}
